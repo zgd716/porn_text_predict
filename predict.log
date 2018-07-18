@@ -1,0 +1,5 @@
+Wed, 13 Jun 2018 19:39:20 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Wed, 13 Jun 2018 19:39:20 __init__.py[line:131] DEBUG Loading model from cache C:\Users\ZHANGG~1\AppData\Local\Temp\jieba.cache
+Wed, 13 Jun 2018 19:39:22 __init__.py[line:163] DEBUG Loading model cost 1.416 seconds.
+Wed, 13 Jun 2018 19:39:22 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Wed, 13 Jun 2018 19:39:25 predict_local2mq.py[line:168] WARNING url:http://m.sohu.com/n/509409437/	porn:0

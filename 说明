@@ -1,0 +1,4 @@
+corpus_porn.txt:导入到mysql中的色情语料
+corpus_unporn.txt:导入到mysql中的非色情语料
+predict_mq2local.py：带预测文本存储到本地
+predict_local2mq.py：预测脚本
